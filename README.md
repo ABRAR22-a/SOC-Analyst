@@ -22,6 +22,6 @@ A hands-on TryHackMe lab focused on Windows event logs, process analysis, IP add
 
 **Project Status:** Completed training lab
 
-[View Project](./01-Windows-VPN-Log-Analysis-Splunk/)
+[View Project](./1-Windows-VPN-Log-Analysis-Splunk/)
 
 
