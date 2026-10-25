@@ -2,7 +2,7 @@
 
 Welcome to my cybersecurity portfolio.
 
-This repository documents my hands-on learning and practical exercises in cybersecurity, with a focus on Security Operations Center (SOC) analysis.
+This repository documents my hands-on learning and practical exercises in cybersecurity, with a focus on Security Operations Center SOC analysis.
 
 ## Skills in Progress
 
